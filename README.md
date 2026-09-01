@@ -20,9 +20,8 @@ Entity Framework Core and SQL Server.
 - Swagger
 
 ## API Endpoints
-
-GET    /api/products
-GET    /api/products/{id}
-POST   /api/products
-PUT    /api/products/{id}
-DELETE /api/products/{id}
+| GET | /api/products | Get all products |
+| GET | /api/products/{id} | Get product by ID |
+| POST | /api/products | Create a new product |
+| PUT | /api/products/{id} | Update product |
+| DELETE | /api/products/{id} | Delete product |
