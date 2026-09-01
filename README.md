@@ -25,3 +25,11 @@ Entity Framework Core and SQL Server.
 | POST | /api/products | Create a new product |
 | PUT | /api/products/{id} | Update product |
 | DELETE | /api/products/{id} | Delete product |
+
+## How to Run
+1. Clone the repository
+2. Open the project in Visual Studio
+3. Update the SQL Server connection string
+4. Run database migrations
+5. Run the application
+6. Open Swagger to test the API
